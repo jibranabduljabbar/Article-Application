@@ -7,4 +7,4 @@
 <br>
 <br>
 <br>
-<img src="https://media.licdn.com/dms/image/C4D22AQG70hTKiFemkQ/feedshare-shrink_800/0/1673938192874?e=1677110400&v=beta&t=bcliS3Clsmpi6xW-pAhoWAC-g-slTXAoEgDDGPN1tk4" alt="Project Demo"/>
+<center><img src="https://media.licdn.com/dms/image/C4D22AQG70hTKiFemkQ/feedshare-shrink_800/0/1673938192874?e=1677110400&v=beta&t=bcliS3Clsmpi6xW-pAhoWAC-g-slTXAoEgDDGPN1tk4" alt="Project Demo"/></center>
